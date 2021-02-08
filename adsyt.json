@@ -2,6 +2,7 @@
 
     "status_redirect":"",
     "link_redirect":"",
+    "admob_appid":"",
     "admob_banner":"",
     "admob_inter":"",
     "admob_openads":"",
