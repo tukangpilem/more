@@ -1,0 +1,14 @@
+{ 
+
+    "status_redirect":"",
+    "link_redirect":"",
+    "admob_banner":"",
+    "admob_inter":"",
+    "admob_openads":"",
+    "fan_banner":"",
+    "fan_inter":"",
+    "startapp":"",
+    "select_ads":"",
+    "interval":3
+
+}
