@@ -1,0 +1,94 @@
+{ 
+
+
+"Categories": [
+    {
+      "name_categoty": "Podcast"
+    },
+    {
+    "name_categoty": "Tutorial"
+    },
+    {
+    "name_categoty": "Guide SC"
+    },
+    {
+    "name_categoty": "Trik"
+    }
+],
+
+  "Video":
+[
+  {
+    "id":1,
+    "name_categoty":"Podcast",
+    "title":"Bermain admob dulu dan sekarang bersama Om Luky subes Bandung - Aliendroid - Talkshow",
+    "description":"Wawancara dengan om Luky lukita insan, pemain admob dari tahun 2012, naik turunnya pendatan admob hingga vakum nya bermain admob tahun 2019. Dan trik manajemen Tim agar bermain admob aman",
+    "image":"http://aliendro.id/uploads/YTAPP/luki.jpg",
+    "videoid":"fhdovwFM-kQ"
+  },
+  {
+  "id":2,
+  "name_categoty":"Podcast",
+  "title":"Teknik riset KW app dan HPK admob, serta manajemen multi akun Gdev oleh Nano Studio (Sofan Dianto)",
+  "description":"Wawancara dengan om Sofan Dianto empunya Nanto Studio dalam sesi ini di basas berbagai ilmu yang sangat membantu para publisher android",
+  "image":"http://aliendro.id/uploads/YTAPP/sofan.jpg",
+  "videoid":"kD8expiQ5dY"
+},
+  {
+    "id":3,
+    "name_categoty":"Podcast",
+    "title":"Cara manajemen 350 Gdev dengan mudah dan kelola akun admob - Henry Jie - Aliendroid",
+    "description":"wawancara dengan sang legenda Admob om henry jie sang kuli panggul yang berusaha untuk menjadi publisher Android. Selain itu di bahsas berbagai trik mulai dari cara daftar akun admob, manajmen tim dan ternak akun gdev hanya bermodalkan FD",
+    "image":"http://aliendro.id/uploads/YTAPP/henri.jpg",
+    "videoid":"MA3tNF9Lmxk"
+  }, {
+  "id":4,
+  "name_categoty":"Guide SC",
+  "title":"Cara membuat game Alien Tebak-Tebakan",
+  "description":"Alien Tebak-Tebakan (ATT) V1.0 adalah source code jenis trivia, dimana user harus menjawab dari 5 petunjuk yang diberikan. Dalam bahasa sunda permainan ini disebut Tatarucingan. ",
+  "image":"http://aliendro.id/uploads/YTAPP/alien.jpg",
+  "videoid":"RdD8VzlNLrQ"
+},
+  {
+  "id":5,
+  "name_categoty":"Guide SC",
+  "title":"Cara Reskin Source code Alien Audio Player untuk membuat aplikasi streaming",
+  "description":"Alien Mp3 Player adalah source code untuk membuat aplikasi pemutar audio secara streaming dengan menggunakan file json.",
+  "image":"http://aliendro.id/uploads/YTAPP/alien.jpg",
+  "videoid":"BHiWFYUWaps"
+},
+  {
+    "id":6,
+    "name_categoty":"Guide SC",
+    "title":"Cara menggunakan source code Alien Wallpapers Api Blogspot",
+    "description":"SC Wallpaper Api Blogspot V.1.6 adalah SC bagi yang suka bermain App wallpaper online dan males beli hosting dan seting-seting server. Dengan SC ini membuat app wallpaper cukup menggunakan blogspot saja sebagai media penyimpanan asset.",
+    "image":"http://aliendro.id/uploads/YTAPP/alien.jpg",
+    "videoid":"Phy18JTk-rg"
+  },
+  {
+    "id":7,
+    "name_categoty":"Guide SC",
+    "title":"Cara menggunakan source code Alien Wallpapers Api Blogspot",
+    "description":"SC Wallpaper Api Blogspot V.1.6 adalah SC bagi yang suka bermain App wallpaper online dan males beli hosting dan seting-seting server. Dengan SC ini membuat app wallpaper cukup menggunakan blogspot saja sebagai media penyimpanan asset.",
+    "image":"http://aliendro.id/uploads/YTAPP/alien.jpg",
+    "videoid":"Phy18JTk-rg"
+  }
+,
+  {
+    "id":8,
+    "name_categoty":"Tutorial",
+    "title":"Alternatif limit ads admob dengan metode mediasi",
+    "description":"Mediasi AdMob adalah fitur yang memungkinkan Anda menayangkan iklan ke aplikasi Anda dari berbagai sumber, termasuk Jaringan AdMob, jaringan iklan pihak ketiga, dan kampanye AdMob. Mediasi AdMob membantu memaksimalkan rasio pengisian Anda dan meningkatkan monetisasi Anda dengan mengirimkan permintaan iklan ke beberapa jaringan untuk memastikan Anda menemukan jaringan terbaik yang tersedia untuk menayangkan iklan.",
+    "image":"http://aliendro.id/uploads/YTAPP/alien.jpg",
+    "videoid":"h9KEdaPfpl0"
+  },
+  {
+    "id":9,
+    "name_categoty":"Trik",
+    "title":"Mengenal Sellers.json dan Format iklan Open Ads admob",
+    "description":"Implementasi iklan open ads untuk Android Studio.",
+    "image":"http://aliendro.id/uploads/YTAPP/alien.jpg",
+    "videoid":"Ce1fTaXyCTI"
+  }
+]
+}
