@@ -3,13 +3,13 @@
     "status_redirect":"",
     "link_redirect":"",
     "admob_appid":"",
-    "admob_banner":"",
-    "admob_inter":"",
+    "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+    "admob_inter":"ca-app-pub-3940256099942544/1033173712",
     "admob_openads":"",
-    "fan_banner":"",
-    "fan_inter":"",
-    "startapp":"",
-    "select_ads":"",
+    "fan_banner":"YOUR_PLACEMENT_ID",
+    "fan_inter":"YOUR_PLACEMENT_ID",
+    "startapp":"2345678",
+    "select_ads":"3",
     "interval":3
 
 }
